@@ -4,21 +4,11 @@ You can use the [editor on GitHub](https://github.com/megs161195/Image-Captin-Ge
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Project Deliverables
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Creating descriptive captions for each image in our images gallery. 
+2. A “Search” option that takes user input ( for eg. ‘dog on desk’ ) and returns all images from the images gallery whose captions contain those particular words. 
 
-```markdown
-Syntax highlighted code block
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
