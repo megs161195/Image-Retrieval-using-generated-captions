@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages Malvika
 
 You can use the [editor on GitHub](https://github.com/megs161195/Image-Captin-Generator-story/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,7 +10,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-# Hello 
 # Header 1
 ## Header 2
 ### Header 3
