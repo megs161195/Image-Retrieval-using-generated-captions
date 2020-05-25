@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Malvika Mohan
+## Motivation: 
 
 You can use the [editor on GitHub](https://github.com/megs161195/Image-Captin-Generator-story/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
