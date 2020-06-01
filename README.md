@@ -37,9 +37,9 @@ We will be using Deep Learning to build this project. Following is a summary of 
 <img src="https://github.com/megs161195/Image-Retrieval-using-generated-captions/raw/master/prediction2-%20table%20with%20people%20eating%20food.JPG" alt ="Hi" class="inline"/>'
 
 #### Image Retrieval Feature Using Keywords
+
 After every image is assigned one caption, you can retrieve the specific images you need by adding the words as keywords. The feature wil then retrieve all the images that have the keywords in their captions. 
 
-The following video displays the working of the image retrieval feature.
-We give two key words as input to our image retrieval algorithm- 'food' and 'table'. The result is all the images in our gallery whose generated captions contain those two keywords.
+The following video displays the working of the image retrieval feature. In this video, we give two key words as input to our image retrieval algorithm- 'food' and 'table'. The result is all the images in our gallery whose generated captions contain those two keywords.
 
 <iframe src="https://drive.google.com/file/d/1Bqa_7uPthcROVROmCkRT3ekzXG2Eg6kq/preview" width="640" height="480"></iframe>
