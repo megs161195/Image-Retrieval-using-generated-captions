@@ -6,6 +6,14 @@ The primary motivation for this project is to generate descriptive captions for 
 1. Creating descriptive captions for each image in our images gallery. 
 2. A “Search” option that takes user input ( for eg. ‘dog on desk’ ) and returns all images from the images gallery whose captions contain those particular words. 
 
+### Project Methodology 
+We will be using Deep Learning to build this project. Following is a summary of the steps undertaken:
+1.
+2.
+3.
+4.
+5.
+
 ### Sample Predicted Captions
 
 #### Image 1
