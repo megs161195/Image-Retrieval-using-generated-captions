@@ -1,6 +1,5 @@
 ## Motivation: 
-
-
+The primary motivation for this project is to generate descriptive captions for images which can be further used to retrieve images of similar categories from an image gallery. This idea will find applications in smartphones where our caption generator will create a single caption for each image in our phone image gallery. The user can then enter a key word or multiple key words ( for example: 'dog' and 'desk'), and our algorithm will return back all images whose generated caption contain the input key words.
 
 ### Project Deliverables
 
