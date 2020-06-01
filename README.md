@@ -30,3 +30,7 @@ We will be using Deep Learning to build this project. Following is a summary of 
 
 #### Image 5
 <img src="https://github.com/megs161195/Image-Retrieval-using-generated-captions/raw/master/prediction2-%20table%20with%20people%20eating%20food.JPG" alt ="Hi" class="inline"/>'
+
+#### Image Retrieval Feature Using Keywords
+<iframe src="https://drive.google.com/file/d/1Bqa_7uPthcROVROmCkRT3ekzXG2Eg6kq/preview" width="640" height="480"></iframe>
+
