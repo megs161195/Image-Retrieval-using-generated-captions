@@ -39,10 +39,6 @@ We will be using Deep Learning to build this project. Following is a summary of 
 
 #### Image Retrieval Feature Using Keywords
 
----
-driveId: 1Bqa_7uPthcROVROmCkRT3ekzXG2Eg6kq/preview
----
+After every image is assigned one caption, you can retrieve the specific images you need by adding the words as keywords. The feature wil then retrieve all the images that have the keywords in their captions. The following video displays the working of the feature.
 
 <iframe src="https://drive.google.com/file/d/1Bqa_7uPthcROVROmCkRT3ekzXG2Eg6kq/preview" width="640" height="480"></iframe>
-
-{% include googleDrivePlayer.html id=page.driveId %}
