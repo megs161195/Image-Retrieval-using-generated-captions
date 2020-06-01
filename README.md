@@ -10,15 +10,14 @@ The primary motivation for this project is to generate descriptive captions for 
 ### Project Methodology 
 
 We will be using Deep Learning to build this project. Following is a summary of the steps undertaken:
-1. We used the (eg. Flickr30, MSCOCO) dataset which has images along with their captions. We will divide this dataset into train and test data.
-2. Next, we checked if our data needs any cleaning. There was no cleaining needed.
-3. We then vectorized all the images and the captions and then create a model that will train with the image vectors as features and the caption vectors as the target.
-4. We also set a maximum limit for our captions so that our model would know where to stop.
-5. The model mainly focused on providing the most probable word for every iteration, and for every iteration, we will be improving our sentence.
-6. To improve the sentences, we processed the sequences using a Recurrent Neural network and predicted the index of the next word in a sentence.
-7. For hyperparameter tuning, we used BLEU score to calculate the loss on a batch of data points to update the gradients.
-8. Finally, began implementation by inputting the partial caption and the image vector to a feed-forward network(the model) which predicted the next word in the sequence of our caption.
-9.In the end, we tested the model by passing new unobserved images and found the most probable captions for these images.
+1. We use the MSCOCO dataset which has images along with their captions. We divide this dataset into train, validation, and test data.
+2. Next, we check if our data needs any cleaning. There is no cleaining needed.
+3. We then vectorize all the images and the captions and then build a model that will train with the image vectors as features and the caption vectors as the target.
+4. We also set a maximum limit for our captions so that our model knows where to stop.
+5. The model focuses on providing the most probable word for every iteration. After every iteration, the most probable word is added to the caption sentence.
+6. To improve the accuracy of captions, we process the sequences using a Recurrent Neural network and predict the index of the next word in a sentence from our vocabulary.
+7. For hyperparameter tuning, we use BLEU score as a metric to calculate the loss on a batch of data points and train the model until an optimun BLUE score value is reached.
+8. Once the model is trained, we test the model performance by passing new unobserved images and predict the most probable captions for these images.
 
 ### Sample Predicted Captions
 
