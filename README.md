@@ -11,4 +11,4 @@
 
 
 ### Sample Predicted Captions
-<img src="C:\Users\mdpar\Desktop\prediction 4_kite-sky.jpg" alt ="Hi" class="inline"/>
+<img src="https://github.com/megs161195/Image-Retrieval-using-generated-captions/blob/master/prediction%20-%20flowers%20correct.JPG" alt ="Hi" class="inline"/>
