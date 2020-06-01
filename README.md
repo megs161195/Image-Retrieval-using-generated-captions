@@ -13,7 +13,7 @@
 ### Sample Predicted Captions
 
 #### Image 1
-<img src="https://github.com/megs161195/Image-Retrieval-using-generated-captions/raw/master/prediction%20-%20flowers%20correct.JPG"/>
+<img src="prediction - flowers correct.JPG"/>
 
 #### Image 2
 <img src="https://github.com/megs161195/Image-Retrieval-using-generated-captions/raw/master/prediction%203-%20clock.JPG" alt ="Hi" class="inline"/>'
