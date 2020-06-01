@@ -1,3 +1,7 @@
+---
+driveId: 1Bqa_7uPthcROVROmCkRT3ekzXG2Eg6kq/preview
+---
+
 ## Motivation: 
 The primary motivation for this project is to generate descriptive captions for images which can be further used to retrieve images of similar categories from an image gallery. This idea will find applications in smartphones where our caption generator will create a single caption for each image in our phone image gallery. The user can then enter a key word or multiple key words ( for example: 'dog' and 'desk'), and our algorithm will return back all images whose generated caption contain the input key words. This feature allows for quick retrieval of images from a large gallery so that user need not manually locate specific images of interest.
 
@@ -34,3 +38,4 @@ We will be using Deep Learning to build this project. Following is a summary of 
 #### Image Retrieval Feature Using Keywords
 <iframe src="https://drive.google.com/file/d/1Bqa_7uPthcROVROmCkRT3ekzXG2Eg6kq/preview" width="640" height="480"></iframe>
 
+{% include googleDrivePlayer.html id=page.driveId %}
