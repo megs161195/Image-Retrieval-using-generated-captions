@@ -11,4 +11,4 @@
 
 
 ### Sample Predicted Captions
-<img src="C:\Users\mdpar\Desktop\prediction 4_kite-sky.jpg" , class="inline"/>
+<img src="C:\Users\mdpar\Desktop\prediction 4_kite-sky.jpg" alt ="Hi" class="inline"/>
