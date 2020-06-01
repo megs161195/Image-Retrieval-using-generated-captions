@@ -39,10 +39,6 @@ We will be using Deep Learning to build this project. Following is a summary of 
 #### Image Retrieval Feature Using Keywords
 In the following video, we give two key words as input to our image retrieval algorithm- 'food' and 'table'. The result is all the images in our gallery whose generated captions contain those two keywords.
 
----
-driveId: 1Bqa_7uPthcROVROmCkRT3ekzXG2Eg6kq/preview
----
-
 <iframe src="https://drive.google.com/file/d/1Bqa_7uPthcROVROmCkRT3ekzXG2Eg6kq/preview" width="640" height="480"></iframe>
 
 {% include googleDrivePlayer.html id=page.driveId %}
